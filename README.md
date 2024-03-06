@@ -4,9 +4,6 @@
 # MyWonderland3D
 
 
-![Uploading wonderlandgif.gif…]()
-
-
 ## Introduction
 
 Welcome to MyWonderland3D! This project showcases a basic 3D world construction created with Unity. In this world, you will find dynamic features such as snowfall, rain, day-night cycles, a beautiful lake, various trees, flowers, mushrooms, and lush greenery.
