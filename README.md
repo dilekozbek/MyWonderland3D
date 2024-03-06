@@ -1,6 +1,4 @@
-![wonderlandgif](https://github.com/dilekozbek/MyWonderland3D/assets/76568851/d27b8afe-5087-4a15-94f9-75e9cac01e6e)# MyWonderland3D
-
-Tabii, işte README dosyasının içeriği:
+![wonderlandgif](https://github.com/dilekozbek/MyWonderland3D/assets/76568851/d27b8afe-5087-4a15-94f9-75e9cac01e6e)
 
 ```
 # MyWonderland3D
@@ -37,8 +35,6 @@ If you'd like to contribute to this project, please fork the repository and crea
 ---
 
 # MyWonderland3D
-
-![Wonderland GIF](link_to_your_gif)
 
 ## Tanıtım
 
